@@ -1,4 +1,4 @@
-<h1> Python Analysis Projects </h1>
+<h1> Python Analysis Projects: </h1>
 Python Projects using pandas, numpy, matplotlib, mplfinance and more.
 
 <h2>Stock Market Analysis Project:</h2>
